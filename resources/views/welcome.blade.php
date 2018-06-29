@@ -76,7 +76,7 @@
                     @endauth
                 </div>
             @endif
-                <h1>Sahand Likes Laravel</h1>
+                <h1>Hasan Likes Laravel</h1>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
