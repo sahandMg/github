@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: darkgreen;
+                background-color: yellow;
                 color: black;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -77,6 +77,8 @@
                 </div>
             @endif
                 <h1>Sahand Likes Laravel</h1>
+                 <h1>Teddy runs for Laravel</h1>
+                 <h1>Teddy Likes Laravel</h1>
                  <h1>Sahand runs for Laravel</h1>
             <div class="content">
                 <div class="title m-b-md">
