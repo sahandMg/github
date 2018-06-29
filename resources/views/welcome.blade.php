@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
+                background-color:'red';
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
                 font-weight: 100;
@@ -76,13 +76,15 @@
                     @endauth
                 </div>
             @endif
-                <h1>Hasan Likes Laravel</h1>
+                <h1>Sahand Likes Laravel</h1>
+                 <h1>Sahand runs for Laravel</h1>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
                 </div>
 
                 <div class="links">
+                    <a href="https://google.com">Google</a>
                     <a href="https://laravel.com/docs">Documentation</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
